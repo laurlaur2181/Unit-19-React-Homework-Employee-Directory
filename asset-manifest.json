@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/js/main.c3389692.chunk.js",
+    "main.js.map": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/js/main.c3389692.chunk.js.map",
+    "runtime-main.js": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/js/runtime-main.73f2c0f7.js",
+    "runtime-main.js.map": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/js/runtime-main.73f2c0f7.js.map",
+    "static/js/2.dae4a536.chunk.js": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/js/2.dae4a536.chunk.js",
+    "static/js/2.dae4a536.chunk.js.map": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/js/2.dae4a536.chunk.js.map",
+    "static/js/3.e11d6684.chunk.js": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/js/3.e11d6684.chunk.js",
+    "static/js/3.e11d6684.chunk.js.map": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/js/3.e11d6684.chunk.js.map",
+    "index.html": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.dae4a536.chunk.js.LICENSE.txt": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/js/2.dae4a536.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/laurlaur2181/Unit-19-React-Homework-Employee-Directory/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73f2c0f7.js",
+    "static/js/2.dae4a536.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.c3389692.chunk.js"
+  ]
+}
