@@ -2,7 +2,7 @@
   "name": "reacthomework",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/laurlaur2181/Unit-19-React-Homework-Employee-Directory",
+  "homepage": "https://laurlaur2181.github.io/Unit-19-React-Homework-Employee-Directory/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.5",
     "@testing-library/react": "^11.1.0",
